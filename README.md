@@ -7,10 +7,10 @@ This is a simple task manager application built with Node.js, Express, and Mongo
 
 ### To get started with the project, follow these steps:
 
-  - 1. Clone the repository to your local machine.
-  - Nested Item Install the required dependencies using npm install.
-  - 2. Start the server using **npm start**.
-  - 3. Access the application by visiting **http://localhost:3000** in your web browser.
+  1. Clone the repository to your local machine.
+  2. Install the required dependencies using npm install.
+  3. Start the server using **npm start**.
+  4. Access the application by visiting **http://localhost:3000** in your web browser.
 
 
 ## Usage
