@@ -28,6 +28,6 @@ If you'd like to contribute to the project, please follow these steps:
   - Nested Item Create a pull request to the original repository.
 
 #License
-This project is licensed under the MIT License. See the **LICENSE** file for more information.
+This project is licensed under the MIT License. See the [**LICENSE**](https://www.mit.edu/) file for more information.
 
 Feel free to customize this README file to fit the specific needs of your project. Good luck!
