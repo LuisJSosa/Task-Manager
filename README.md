@@ -1,6 +1,7 @@
 # Task Manager
 This is a simple task manager application built with Node.js, Express, and MongoDB. It allows users to create, read, update, and delete tasks.
 
+![Project Screenshot](https://github.com/LuisJSosa/Task-Manager/blob/main/task-mang.png?raw=true)
 
 
 ## Getting started
